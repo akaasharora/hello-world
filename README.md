@@ -8,4 +8,4 @@ This is my first GitHub Repository.
 "Goals"
 "Alright" "Alright" "Alright"
 
-"Commit 2"
+
